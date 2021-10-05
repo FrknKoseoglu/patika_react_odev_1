@@ -1,0 +1,23 @@
+{
+  "name": "patika_react_odev_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrknKoseoglu/patika_react_odev_1.git"
+  },
+  "author": "Furkan Köseoğlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrknKoseoglu/patika_react_odev_1/issues"
+  },
+  "homepage": "https://github.com/FrknKoseoglu/patika_react_odev_1#readme",
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
+}
